@@ -253,7 +253,7 @@ namespace Discord_Bot_Tut
                         msg.Channel.SendMessageAsync($"https://moodle1.ceiti.md/login/index.php");
                         break;
                     }
-                    case "m4a1s vasilisk":
+                    case "vasilisk":
                     {
                         msg.Channel.SendMessageAsync($"https://steamcommunity.com/market/listings/730/M4A1-S%20%7C%20Basilisk%20%28Field-Tested%29");
                         break;
