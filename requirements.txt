@@ -1,0 +1,2 @@
+Discord.Net==3.3.0
+Discord.Net.WebSocket==3.3.0
