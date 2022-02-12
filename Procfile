@@ -1,1 +1,1 @@
-﻿worker: c# Program.cs
+﻿worker: cs Program.cs
