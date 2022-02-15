@@ -18,7 +18,7 @@ namespace Discord_Bot_Tut
             client.MessageReceived += CommandsHandler;
             client.Log += Log;
 
-            var token = "OTQxMzE4NTM3NjczMzEwMjYw.YgUNNA.vUCpMc2jS2cqbAMJIDLIjcjG3k4";
+            var token = "TOKEN";
 
             await client.LoginAsync(TokenType.Bot, token);
             await client.StartAsync();
